@@ -59,24 +59,24 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "name":"Run Buddy",
+      "description":"HTML/CSS",
+      "imgurl":"images/portfolio/run-buddy.jpg"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "name":"Horiseon",
+      "description":"HTML/CSS",
+      "imgurl":"images/portfolio/horiseon.jpg"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",  
-      "imgurl":"images/portfolio/project2.png"
+      "name":"Quiz Project",
+      "description":"JavaScript",  
+      "imgurl":"images/portfolio/quiz-project.png"
     },
     {
-      "name":"project4",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "name":"Just Breathe",
+      "description":"HTML/CSS/JavaScript",
+      "imgurl":"images/portfolio/just-breathe.jpg"
     }
   ],
   "testimonials":[
