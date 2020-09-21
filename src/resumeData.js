@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl":"", // put githubpage website here
+  "imagebaseurl":"https://MatthewMcFadden.github.io",
   "name": "Matthew McFadden",
   "role": "Full Stack Web Developer",
   "roleDescription": " I am currently a student at University of Utah taking a coding bootcamp that is teaching me how to be a Full Stack Web Developer.",
@@ -12,7 +12,7 @@ let resumeData = {
   ],
   "aboutme":"I am Matthew McFadden and I am looking to become a full stack web developer. I have personally built this webpage to showcase some of my work. Helvetica put a biron on Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet soluta sunt vel quasi, quibusdam earum facilis beatae tempora quae a, rem velit non doloribus voluptas debitis amet omnis quisquam modi. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi magnam unde aliquid dolores vitae, eligendi, rem molestiae quidem possimus suscipit vel a dicta, adipisci veniam omnis ad corrupti nesciunt vero.",
   "address":"Idaho",
-  "website":"https://.github.io", // put githubpage website here
+  "website":"https://MatthewMcFadden.github.io",
   "education":[
     {
       "UniversityName":"University of Utah",
