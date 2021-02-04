@@ -2,7 +2,7 @@ let resumeData = {
   "imagebaseurl":"https://MatthewMcFadden.github.io",
   "name": "Matthew McFadden",
   "role": "Full Stack Web Developer",
-  "roleDescription": " I am currently a student at University of Utah taking a coding bootcamp that is teaching me how to be a Full Stack Web Developer.",
+  "roleDescription": "I am a Full Stack Web Developer.",
   "socialLinks":[
     {
       "name":"github",
@@ -10,8 +10,8 @@ let resumeData = {
       "className":"fa fa-github"
     },
   ],
-  "aboutme":"I am Matthew McFadden and I am looking to become a full stack web developer. I have personally built this webpage to showcase some of my work. Helvetica put a biron on Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet soluta sunt vel quasi, quibusdam earum facilis beatae tempora quae a, rem velit non doloribus voluptas debitis amet omnis quisquam modi. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi magnam unde aliquid dolores vitae, eligendi, rem molestiae quidem possimus suscipit vel a dicta, adipisci veniam omnis ad corrupti nesciunt vero.",
-  "address":"Idaho",
+  "aboutme":"I am Matthew McFadden and I am looking to become a full stack web developer. I have recently graduated from a coding bootcamp through the University of Utah in October 2020 as a Full Stack Web Developer. Using React, I have personally built this portfolio including some of my work.",
+  "address":"matthew.mcfadden14@gmail.com",
   "website":"https://MatthewMcFadden.github.io",
   "education":[
     {
@@ -26,27 +26,39 @@ let resumeData = {
       "specialization":"Bachelor of Science in Psychology",
       "MonthOfPassing":"April",
       "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
+      "Achievements":"3.2 GPA"
     }
   ],
   "work":[
     {
       "CompanyName":"Melaleuca: The Wellness Company",
-      "specialization":"Backup Machine Operator",
+      "specialization":"Machine Operator",
       "MonthOfLeaving":"Current",
-      "YearOfLeaving":"",
-      "Achievements":"Some Achievements"
+      "YearOfLeaving":"2021",
+      "Role":"Worked in the production department producing essential oils."
     },
     {
       "CompanyName":"Riverside Service Group",
       "specialization":"Intervention Specialist",
       "MonthOfLeaving":"April",
       "YearOfLeaving":"2020",
-      "Achievements":"Some Achievements"
+      "Role":"Worked with children and teenagers with developmental disabilities or mental challenges."
     }
   ],
   "skillsDescription":"Your skills here",
   "skills":[
+    {
+      "skillname":"HTML"
+    },
+    {
+      "skillname":"CSS"
+    },
+    {
+      "skillname":"JavaScript"
+    },
+    {
+      "skillname":"React"
+    },
     {
       "skillname":"Problem Solver"
     },
@@ -71,12 +83,17 @@ let resumeData = {
     {
       "name":"Quiz Project",
       "description":"JavaScript",  
-      "imgurl":"images/portfolio/quiz-project.png"
+      "imgurl":"images/portfolio/quiz-project.gif"
     },
     {
       "name":"Just Breathe",
       "description":"HTML/CSS/JavaScript",
       "imgurl":"images/portfolio/just-breathe.jpg"
+    },
+    {
+      "name":"Movie Collector",
+      "description":"HTML/CSS/JavaScript",
+      "imgurl":"images/portfolio/movie-collector.jpg"
     }
   ],
   "testimonials":[
