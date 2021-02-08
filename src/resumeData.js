@@ -89,39 +89,44 @@ let resumeData = {
     {
       "name":"Run Buddy",
       "description":"HTML/CSS",
-      "imgurl":"images/portfolio/run-buddy.jpg"
+      "imgurl":"images/portfolio/run-buddy.jpg",
+      "href":"https://matthewmcfadden.github.io/run-buddy/"
     },
     {
       "name":"Horiseon",
       "description":"HTML/CSS",
-      "imgurl":"images/portfolio/horiseon.jpg"
+      "imgurl":"images/portfolio/horiseon.jpg",
+      "href":"https://matthewmcfadden.github.io/horiseon/"
     },
     {
       "name":"Quiz Project",
       "description":"JavaScript",  
-      "imgurl":"images/portfolio/quiz-project.gif"
+      "imgurl":"images/portfolio/quiz-project.gif",
+      "href":""
     },
     {
       "name":"Just Breathe",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"images/portfolio/just-breathe.png"
+      "imgurl":"images/portfolio/just-breathe.png",
+      "href":"https://parkerrobison.github.io/just-breathe/"
     },
     {
       "name":"Movie Collector",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"images/portfolio/movie-collector.jpg"
+      "imgurl":"images/portfolio/movie-collector.jpg",
+      "href":"https://media-collector-project.herokuapp.com/"
     }
   ],
-  "testimonials":[
-    {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
-    },
-    {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
-    }
-  ]
+  // "testimonials":[
+  //   {
+  //     "description":"This is a sample testimonial",
+  //     "name":"Some technical guy"
+  //   },
+  //   {
+  //     "description":"This is a sample testimonial",
+  //     "name":"Some technical guy"
+  //   }
+  // ]
 }
 
 export default resumeData
