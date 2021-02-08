@@ -5,10 +5,15 @@ let resumeData = {
   "roleDescription": "I am a Full Stack Web Developer.",
   "socialLinks":[
     {
-      "name":"github",
-      "url":"http://https://github.com/MatthewMcFadden",
-      "className":"fa fa-github"
+      "name":"linkedin",
+      "url":"https://www.linkedin.com/in/matthew-mcfadden-268aa71a6/",
+      "className":"fa fa-linkedin"
     },
+    {
+      "name":"github",
+      "url":"https://github.com/MatthewMcFadden",
+      "className":"fa fa-github"
+    }
   ],
   "aboutme":"I am Matthew McFadden and I am looking to become a full stack web developer. I have recently graduated from a coding bootcamp through the University of Utah in October 2020 as a Full Stack Web Developer. Using React, I have personally built this portfolio including some of my work.",
   "address":"matthew.mcfadden14@gmail.com",
@@ -19,14 +24,14 @@ let resumeData = {
       "specialization":"Web Development",
       "MonthOfPassing":"October",
       "YearOfPassing":"2020",
-      "Achievements":"Some Achievements"
+      "Achievements":"Learned FullStack Web Development and received a certificate for completing the course"
     },
     {
       "UniversityName":"Utah Valley University",
-      "specialization":"Bachelor of Science in Psychology",
+      "specialization":"Bachelor of Science in Psychology and a Minor in Music",
       "MonthOfPassing":"April",
       "YearOfPassing":"2018",
-      "Achievements":"3.2 GPA"
+      "Achievements":"3.17 Overall GPA, made the Dean's List in Spring 2015"
     }
   ],
   "work":[
