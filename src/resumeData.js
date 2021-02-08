@@ -2,7 +2,8 @@ let resumeData = {
   "imagebaseurl":"https://MatthewMcFadden.github.io",
   "name": "Matthew McFadden",
   "role": "Full Stack Web Developer",
-  "roleDescription": "I am a Full Stack Web Developer.",
+  "location": "Utah County, UT or Idaho Falls, ID",
+  "roleDescription": "I am excited to further increase my passion and education in the workplace to achieve my career goals",
   "socialLinks":[
     {
       "name":"linkedin",
@@ -15,9 +16,9 @@ let resumeData = {
       "className":"fa fa-github"
     }
   ],
-  "aboutme":"I am Matthew McFadden and I am looking to become a full stack web developer. I have recently graduated from a coding bootcamp through the University of Utah in October 2020 as a Full Stack Web Developer. Using React, I have personally built this portfolio including some of my work.",
-  "address":"matthew.mcfadden14@gmail.com",
-  "website":"https://MatthewMcFadden.github.io",
+  "aboutme":"I have recently graduated from the University of Utah's Coding Bootcamp. I completed the course and gained the skills necessary to become a Full Stack Web Developer in October 2020. I seek employment opportunities to further my knowledge, understanding, and passion as a Web Developer. By using React, I have personally built this portfolio to showcase the skills that I have developed.",
+  "address":"Currently: 1537 N. Stevens Dr. Apt. D, Idaho Falls, ID 83401",
+  "website":"matt.mcfadden14@gmail.com",
   "education":[
     {
       "UniversityName":"University of Utah",
@@ -50,55 +51,65 @@ let resumeData = {
       "Role":"Worked with children and teenagers with developmental disabilities or mental challenges."
     }
   ],
-  "skillsDescription":"Your skills here",
   "skills":[
     {
-      "skillname":"HTML"
+      "skillname":"HTML5",
+      "level":"80%"
     },
     {
-      "skillname":"CSS"
+      "skillname":"CSS",
+      "level":"80%"
     },
     {
-      "skillname":"JavaScript"
+      "skillname":"JavaScript",
+      "level":"80%"
     },
     {
-      "skillname":"React"
+      "skillname":"React",
+      "level":"80%"
     },
     {
-      "skillname":"Problem Solver"
+      "skillname":"Problem Solver",
+      "level":"100%"
     },
     {
-      "skillname":"Teamwork"
+      "skillname":"Teamwork",
+      "level":"100%"
     },
     {
-      "skillname":"Hard Worker"
+      "skillname":"Creativity",
+      "level":"100%"
+    },
+    {
+      "skillname":"Hard Worker",
+      "level":"100%"
     }
   ],
   "portfolio":[
     {
       "name":"Run Buddy",
       "description":"HTML/CSS",
-      "imgurl":"images/portfolio/run-buddy.jpg"
+      "imgurl":"./images/portfolio/run-buddy.jpg"
     },
     {
       "name":"Horiseon",
       "description":"HTML/CSS",
-      "imgurl":"images/portfolio/horiseon.jpg"
+      "imgurl":"./images/portfolio/horiseon.jpg"
     },
     {
       "name":"Quiz Project",
       "description":"JavaScript",  
-      "imgurl":"images/portfolio/quiz-project.gif"
+      "imgurl":"./images/portfolio/quiz-project.gif"
     },
     {
       "name":"Just Breathe",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"images/portfolio/just-breathe.jpg"
+      "imgurl":"./images/portfolio/just-breathe.jpg"
     },
     {
       "name":"Movie Collector",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"images/portfolio/movie-collector.jpg"
+      "imgurl":"./images/portfolio/movie-collector.jpg"
     }
   ],
   "testimonials":[

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-export default  class Resume extends Component {
+
+export default class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -56,7 +57,7 @@ export default  class Resume extends Component {
                         </em>
                       </p>
                       <p>
-                        {item.Achievements}
+                        {item.Role}
                       </p>
                     </div>
                   </div>
@@ -72,17 +73,13 @@ export default  class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>
-              {resumeData.skillsDescription}
-            </p>
-
             <div className="bars">
               <ul className="skills">
                 {
                   resumeData.skills && resumeData.skills.map((item) => {
                     return(
                       <li>
-                      <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
+                      <span className={`bar-expand ${item.level.toLowerCase()}`}>
                       </span><em>{item.skillname}</em>
                       </li>
                     )

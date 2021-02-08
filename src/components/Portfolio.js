@@ -1,13 +1,13 @@
-
 import React, { Component } from 'react';
-export default class Portfolio extends Component {
+
+export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
       <section id="portfolio">
-      <div className="row">
+        <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Work.</h1>
+            <h1>Check Out My Latest Projects.</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
             {
               resumeData.portfolio && resumeData.portfolio.map((item)=>{
@@ -15,7 +15,7 @@ export default class Portfolio extends Component {
                   <div className="columns portfolio-item">
                     <div className="item-wrap">
                       <a href="#modal-01">
-                        <img src={`${item.imgurl}`} className="item-img" alt=""/>
+                        <img src={`${item.imgurl}`} className="item-img"/>
                         <div className="overlay">
                           <div className="portfolio-item-meta">
                             <h5>{item.name}</h5>
