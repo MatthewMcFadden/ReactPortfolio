@@ -89,27 +89,27 @@ let resumeData = {
     {
       "name":"Run Buddy",
       "description":"HTML/CSS",
-      "imgurl":"./images/portfolio/run-buddy.jpg"
+      "imgurl":"images/portfolio/run-buddy.jpg"
     },
     {
       "name":"Horiseon",
       "description":"HTML/CSS",
-      "imgurl":"./images/portfolio/horiseon.jpg"
+      "imgurl":"images/portfolio/horiseon.jpg"
     },
     {
       "name":"Quiz Project",
       "description":"JavaScript",  
-      "imgurl":"./images/portfolio/quiz-project.gif"
+      "imgurl":"images/portfolio/quiz-project.gif"
     },
     {
       "name":"Just Breathe",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"./images/portfolio/just-breathe.jpg"
+      "imgurl":"images/portfolio/just-breathe.jpg"
     },
     {
       "name":"Movie Collector",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"./images/portfolio/movie-collector.jpg"
+      "imgurl":"images/portfolio/movie-collector.jpg"
     }
   ],
   "testimonials":[
