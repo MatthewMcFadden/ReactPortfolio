@@ -104,7 +104,7 @@ let resumeData = {
     {
       "name":"Just Breathe",
       "description":"HTML/CSS/JavaScript",
-      "imgurl":"images/portfolio/just-breathe.jpg"
+      "imgurl":"images/portfolio/just-breathe.png"
     },
     {
       "name":"Movie Collector",
