@@ -88,34 +88,40 @@ let resumeData = {
   "portfolio":[
     {
       "name":"Run Buddy",
-      "description":"HTML/CSS",
+      "description":"HTML/CSS First mock website",
       "imgurl":"images/portfolio/run-buddy.jpg",
       "href":"https://matthewmcfadden.github.io/run-buddy/"
     },
     {
-      "name":"Horiseon",
-      "description":"HTML/CSS",
-      "imgurl":"images/portfolio/horiseon.jpg",
-      "href":"https://matthewmcfadden.github.io/horiseon/"
-    },
-    {
       "name":"Quiz Project",
-      "description":"JavaScript",  
+      "description":"JS/HTML/CSS JavaScript Quiz App",  
       "imgurl":"images/portfolio/quiz-project.gif",
-      "href":""
+      "href":"https://matthewmcfadden.github.io/quiz/"
     },
     {
       "name":"Just Breathe",
-      "description":"HTML/CSS/JavaScript",
+      "description":"HTML/CSS/JavaScript Front End Air Quality App",
       "imgurl":"images/portfolio/just-breathe.png",
       "href":"https://parkerrobison.github.io/just-breathe/"
     },
     {
       "name":"Movie Collector",
-      "description":"HTML/CSS/JavaScript",
+      "description":"HTML/CSS/JavaScript Social Media Movie Collecting website",
       "imgurl":"images/portfolio/movie-collector.jpg",
       "href":"https://media-collector-project.herokuapp.com/"
-    }
+    },
+    {
+      "name":"Book Search Engine",
+      "description":"React/MongoDB",
+      "imgurl":"images/portfolio/Google-book-search.jpg",
+      "href":"https://book-search14.herokuapp.com/"
+    },
+    {
+      "name":"Weather Dashboard",
+      "description":"JS/HTML/CSS Weather Forecast application",
+      "imgurl":"images/portfolio/weather-dashboard.jpg",
+      "href":"https://matthewmcfadden.github.io/weather-dashboard/"
+    },
   ],
   // "testimonials":[
   //   {
